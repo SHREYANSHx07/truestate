@@ -44,3 +44,7 @@ Thumbs.db
 *.log
 logs/
 
+# Large data files
+*.csv
+truestate_assignment_dataset.csv
+
